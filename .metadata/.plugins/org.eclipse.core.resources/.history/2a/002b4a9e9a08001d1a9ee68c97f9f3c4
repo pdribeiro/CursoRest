@@ -1,0 +1,26 @@
+import static io.restassured.RestAssured.*;
+
+import org.junit.Test;
+
+
+public class VerbosTest {
+
+	@Test	
+	
+	public void deveSalvarUsuario() {
+		
+		given()
+		
+		.when()
+			.post("https://restapi.wcaquino.me/users")
+		
+		.then()
+		
+		
+		
+		;
+		
+		
+	}
+
+}

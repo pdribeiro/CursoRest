@@ -1,0 +1,25 @@
+package br.comn.pedro;
+
+import static io.restassured.RestAssured.*;
+
+import org.junit.Test;
+
+
+public class UserJsonTest {
+	@Test
+	public void deveVerificarPrimeiroNivel() {
+		given()
+		.when()
+			.get("https://restapi.wcaquino.me/users/1")
+		.then()
+			.statusCode(200)
+			.body("id", null)
+		
+		;
+		
+		
+		
+		
+	}
+
+}

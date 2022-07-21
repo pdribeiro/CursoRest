@@ -1,0 +1,8 @@
+package br.comn.pedro;
+
+import org.junit.Test;
+
+public class UserJsonTest {
+	@Test
+
+}

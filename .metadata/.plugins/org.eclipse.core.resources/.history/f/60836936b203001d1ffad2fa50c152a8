@@ -1,0 +1,9 @@
+package br.comn.pedro;
+
+import org.junit.Test;
+
+public class OlaMundoTest {
+	
+	@Test
+
+}

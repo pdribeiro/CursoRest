@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\aluga.com\api-rest\.metadata\.plugins\org.eclipse.jdt.core
+4263094133.index
+3816909997.index
+397945458.index
+1848219218.index
+1382568419.index
+2718990156.index
+1394979239.index
+3528237445.index
+923786660.index
+1671880033.index
+1527518247.index
+1602128660.index
+2404856092.index
+3852059708.index
+3130181413.index
+47730539.index
+1865797976.index
+2251647156.index

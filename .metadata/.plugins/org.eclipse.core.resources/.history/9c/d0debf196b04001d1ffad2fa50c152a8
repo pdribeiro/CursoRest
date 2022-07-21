@@ -1,0 +1,17 @@
+package br.comn.pedro;
+
+import org.junit.Test;
+
+import io.restassured.RestAssured;
+
+public class UserJsonTest {
+	@Test
+	public void deveVerificarPrimeiroNivel() {
+		RestAssured
+		
+		
+		
+		
+	}
+
+}
