@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
-    <fullyQualifiedTypeName name="junit.framework.Assert"/>
-    <fullyQualifiedTypeName name="org.junit.Assert"/>
-    <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
     <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
     <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
     <fullyQualifiedTypeName name="io.restassured.filter.log.LogDetail"/>
     <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
+    <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="User"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+    <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
 </qualifiedTypeNameHistroy>
