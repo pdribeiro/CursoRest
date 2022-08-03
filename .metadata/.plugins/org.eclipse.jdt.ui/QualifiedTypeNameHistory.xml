@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
-    <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
     <fullyQualifiedTypeName name="io.restassured.filter.log.LogDetail"/>
-    <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
-    <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="User"/>
     <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.hamcrest.xml.HasXPath"/>
+    <fullyQualifiedTypeName name="org.hamcrest.core.Is"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="io.restassured.matcher.RestAssuredMatchers"/>
+    <fullyQualifiedTypeName name="org.xml.sax.SAXParseException"/>
+    <fullyQualifiedTypeName name="io.restassured.module.jsv.JsonSchemaValidator"/>
+    <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
+    <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
+    <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
     <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
-    <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
+    <fullyQualifiedTypeName name="br.com.pedro.rest.core.BaseTest"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
 </qualifiedTypeNameHistroy>
